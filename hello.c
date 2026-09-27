@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main() { 
-    printf("mamaaaaaaaaaaa!"); 
+
+    printf("mamaaaaaaaaaaa!");
+    
     return 0; 
 }
