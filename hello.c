@@ -1,2 +1,5 @@
 #include <stdio.h>
-int main() { printf("Hello from Yuan!"); return 0; }
+int main() { 
+    printf("Hello from Yuan!"); 
+    return 0; 
+}
